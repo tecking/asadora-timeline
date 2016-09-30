@@ -465,6 +465,11 @@ titles:
    end: 1925
 
  - title: とと姉ちゃん
-   tooltip: 1930（昭和5）年～1974（昭和49）年
+   tooltip: 1930（昭和5）年～1988（昭和63）年
    start: 1930
-   end: 1974
+   end: 1988
+
+ - title: べっぴんさん
+   tooltip: 昭和時代
+   start: 1926
+   end: 1989
