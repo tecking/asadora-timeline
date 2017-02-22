@@ -473,3 +473,18 @@ titles:
    tooltip: 1934（昭和9）年～昭和時代
    start: 1934
    end: 1989
+
+ - title: ひよっこ
+   tooltip: 1964（昭和39）年～現代
+   start: 1964
+   end: 2017
+
+ - title: わろてんか
+   tooltip: 明治時代後半～第二次大戦直後
+   start: 1890
+   end: 1946
+
+ - title: 半分、青い
+   tooltip: 1971（昭和46）年～現代
+   start: 1971
+   end: 2018
