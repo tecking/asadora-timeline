@@ -488,3 +488,8 @@ titles:
    tooltip: 1971（昭和46）年～現代
    start: 1971
    end: 2018
+
+ - title: まんぷく
+   tooltip: 戦前～戦後
+   start: 1926
+   end: 1989
