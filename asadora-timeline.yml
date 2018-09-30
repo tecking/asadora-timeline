@@ -485,11 +485,16 @@ titles:
    end: 1946
 
  - title: 半分、青い。
-   tooltip: 1971（昭和46）年～現代
+   tooltip: 1971（昭和46）年～2011（平成23）年
    start: 1971
-   end: 2018
+   end: 2011
 
  - title: まんぷく
-   tooltip: 戦前～戦後
-   start: 1926
+   tooltip: 1938（昭和13）年～戦後
+   start: 1938
+   end: 1989
+
+ - title: なつぞら
+   tooltip: 1937（昭和12）年～戦後
+   start: 1937
    end: 1989
