@@ -495,6 +495,16 @@ titles:
    end: 1989
 
  - title: なつぞら
+   tooltip: 1946（昭和21）年～戦後
+   start: 1946
+   end: 1989
+
+ - title: スカーレット
    tooltip: 1937（昭和12）年～戦後
    start: 1937
+   end: 1989
+
+ - title: エール
+   tooltip: 1909（明治42）年～戦後
+   start: 1909
    end: 1989
