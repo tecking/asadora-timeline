@@ -495,13 +495,13 @@ titles:
    end: 1970
 
  - title: なつぞら
-   tooltip: 1946（昭和21）年～戦後
+   tooltip: 1946（昭和21）年～1975（昭和50）年
    start: 1946
-   end: 1989
+   end: 1975
 
  - title: スカーレット
-   tooltip: 1937（昭和12）年～戦後
-   start: 1937
+   tooltip: 1947（昭和22）年～戦後
+   start: 1947
    end: 1989
 
  - title: エール
