@@ -508,3 +508,8 @@ titles:
    tooltip: 1909（明治42）年～戦後
    start: 1909
    end: 1989
+
+ - title: おちょやん
+   tooltip: 大正時代～戦後
+   start: 1912
+   end: 2021
