@@ -505,9 +505,9 @@ titles:
    end: 1986
 
  - title: エール
-   tooltip: 1909（明治42）年～戦後
+   tooltip: 1909（明治42）年～1977（昭和52）年
    start: 1909
-   end: 1989
+   end: 1977
 
  - title: おちょやん
    tooltip: 大正時代～戦後
