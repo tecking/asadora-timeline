@@ -510,9 +510,9 @@ titles:
    end: 1977
 
  - title: おちょやん
-   tooltip: 1916（大正5）年～戦後
+   tooltip: 1916（大正5）年～1952（昭和27）年
    start: 1916
-   end: 2021
+   end: 1952
 
  - title: おかえりモネ
    tooltip: 1995（平成7）～現代
@@ -522,4 +522,9 @@ titles:
  - title: カムカムエヴリバディ
    tooltip: 1926（昭和元）～現代
    start: 1926
+   end: 2021
+
+ - title: ちむどんどん
+   tooltip: 1960（昭和35）～現代
+   start: 1960
    end: 2021
