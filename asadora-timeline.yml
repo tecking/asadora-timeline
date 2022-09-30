@@ -525,7 +525,7 @@ titles:
       end: 2025
 
     - title: ちむどんどん
-      tooltip: 1960（昭和35）～202X（令和X）
+      tooltip: 1960（昭和35）～202X（令和X）年
       start: 1960
       end: 2029
 
@@ -538,3 +538,8 @@ titles:
       tooltip: 1862（文久2）～1957（昭和32）年
       start: 1862
       end: 1957
+
+    - title: ブギウギ
+      tooltip: 1920年代～1950年代
+      start: 1920
+      end: 1959
