@@ -9,532 +9,532 @@ titles:
       start: 1945
       end: 1954
 
-    - title: あかつき
-      tooltip: 現代
-      start: 1963
-      end: 1964
-
-    - title: うず潮
-      tooltip: 大正末期～1951（昭和26）年
-      start: 1926
-      end: 1951
-
-    - title: たまゆら
-      tooltip: 現代
-      start: 1965
-      end: 1966
-
-    - title: おはなはん
-      tooltip: 明治中期～1966（昭和41）年
-      start: 1890
-      end: 1966
-
-    - title: 旅路
-      tooltip: 1915（大正4）年～1962（昭和37）年
-      start: 1915
-      end: 1962
-
-    - title: あしたこそ
-      tooltip: 1959（昭和34）年～1969（昭和44）年
-      start: 1959
-      end: 1969
-
-    - title: 信子とおばあちゃん
-      tooltip: 現代
-      start: 1969
-      end: 1970
-
-    - title: 虹
-      tooltip: 1943（昭和18）年～1965（昭和40）年
-      start: 1943
-      end: 1965
-
-    - title: 繭子ひとり
-      tooltip: 現代
-      start: 1971
-      end: 1972
-
-    - title: 藍より青く
-      tooltip: 1943（昭和18）年～1963（昭和38）年
-      start: 1943
-      end: 1963
-
-    - title: 北の家族
-      tooltip: 1971（昭和46）年～1974（昭和49）年
-      start: 1971
-      end: 1974
-
-    - title: 鳩子の海
-      tooltip: 1945（昭和20）年～1975（昭和50）年
-      start: 1945
-      end: 1975
-
-    - title: 水色の時
-      tooltip: 1974（昭和49）年～1975（昭和50）年
-      start: 1974
-      end: 1975
-
-    - title: おはようさん
-      tooltip: 現代
-      start: 1975
-      end: 1976
-
-    - title: 雲のじゅうたん
-      tooltip: 1918（大正7）年～1952（昭和27）年
-      start: 1918
-      end: 1952
-
-    - title: 火の国に
-      tooltip: 1975（昭和50）年～1977（昭和52）年
-      start: 1975
-      end: 1977
-
-    - title: いちばん星
-      tooltip: 明治・大正・昭和
-      start: 1968
-      end: 1977
-
-    - title: 風見鶏
-      tooltip: 大正・昭和
-      start: 1912
-      end: 1978
-
-    - title: おていちゃん
-      tooltip: 大正初期・終戦直後
-      start: 1912
-      end: 1945
-
-    - title: わたしは海
-      tooltip: 昭和初期・終戦期
-      start: 1926
-      end: 1950
-
-    - title: マー姉ちゃん
-      tooltip: 1934（昭和9）年～1957（昭和32）年
-      start: 1934
-      end: 1957
-
-    - title: 鮎のうた
-      tooltip: 大正末期～1952（昭和27）年頃
-      start: 1926
-      end: 1952
-
-    - title: なっちゃんの写真館
-      tooltip: 昭和初期～1952（昭和27）年
-      start: 1926
-      end: 1952
-
-    - title: 虹を織る
-      tooltip: 1937（昭和12）年～1965（昭和40）年
-      start: 1937
-      end: 1965
-
-    - title: まんさくの花
-      tooltip: 1980（昭和55）年～現代
-      start: 1980
-      end: 1982
-
-    - title: 本日も晴天なり
-      tooltip: 1944（昭和19）年～1973（昭和48）年
-      start: 1944
-      end: 1973
-
-    - title: ハイカラさん
-      tooltip: 1882（明治15）年～1905（明治38）年
-      start: 1882
-      end: 1905
-
-    - title: よーいドン
-      tooltip: 1927（昭和2）年～1947（昭和22）年、1980年代
-      start: 1927
-      end: 1947
-
-    - title: おしん
-      tooltip: 明治40年代～昭和50年代
-      start: 1907
-      end: 1985
-
-    - title: ロマンス
-      tooltip: 1912（明治45）年～昭和初期
-      start: 1912
-      end: 1926
-
-    - title: 心はいつもラムネ色
-      tooltip: 1928（昭和3）年～1950年代後半
-      start: 1928
-      end: 1959
-
-    - title: 澪つくし
-      tooltip: 1926（昭和元）年～終戦直後
-      start: 1926
-      end: 1946
-
-    - title: いちばん太鼓
-      tooltip: 昭和40年代
-      start: 1965
-      end: 1974
-
-    - title: はね駒
-      tooltip: 1890（明治23）年～1912（明治45）年
-      start: 1890
-      end: 1912
-
-    - title: 都の風
-      tooltip: 1940（昭和15）年～1956（昭和31）年
-      start: 1940
-      end: 1956
-
-    - title: チョッちゃん
-      tooltip: 1927（昭和2）年～1949（昭和24）年
-      start: 1927
-      end: 1949
-
-    - title: はっさい先生
-      tooltip: 1931（昭和6）年～1948（昭和23）年
-      start: 1931
-      end: 1948
-
-    - title: ノンちゃんの夢
-      tooltip: 1948（昭和23）年～1954（昭和29）年
-      start: 1948
-      end: 1954
-
-    - title: 純ちゃんの応援歌
-      tooltip: 1947（昭和22）年～1962（昭和37）年
-      start: 1947
-      end: 1962
-
-    - title: 青春家族
-      tooltip: 現代
-      start: 1989
-      end: 1990
-
-    - title: 和っこの金メダル
-      tooltip: 1958（昭和33）年～1990（平成2）年
-      start: 1958
-      end: 1990
-
-    - title: 凛凛と
-      tooltip: 1912（明治45）年～1932（昭和7）年
-      start: 1912
-      end: 1932
-
-    - title: 京、ふたり
-      tooltip: 現代
-      start: 1990
-      end: 1991
-
-    - title: 君の名は
-      tooltip: 1945（昭和20）年～1955（昭和30）年
-      start: 1945
-      end: 1955
-
-    - title: おんなは度胸
-      tooltip: 1980（昭和55）年～1992（平成4）年
-      start: 1980
-      end: 1992
-
-    - title: ひらり
-      tooltip: 1992（平成4）年～1993（平成5）年
-      start: 1992
-      end: 1993
-
-    - title: ええにょぼ
-      tooltip: 1989（平成元）年～1993（平成5）年
-      start: 1989
-      end: 1993
-
-    - title: かりん
-      tooltip: 1948（昭和23）年～1964（昭和39）年
-      start: 1948
-      end: 1964
-
-    - title: ぴあの
-      tooltip: 現代
-      start: 1994
-      end: 1995
-
-    - title: 春よ、来い
-      tooltip: 1943（昭和18）年～1989（平成元）年
-      start: 1943
-      end: 1989
-
-    - title: 走らんか！
-      tooltip: 現代
-      start: 1995
-      end: 1996
-
-    - title: ひまわり
-      tooltip: 現代
-      start: 1996
-      end: 1997
-
-    - title: ふたりっ子
-      tooltip: 1966（昭和41）年～2002（平成14）年
-      start: 1966
-      end: 2002
-
-    - title: あぐり
-      tooltip: 1907（明治40）年～1954（昭和29）年
-      start: 1907
-      end: 1954
-
-    - title: 甘辛しゃん
-      tooltip: 1960（昭和35）年～1995（平成7）年
-      start: 1960
-      end: 1995
-
-    - title: 天うらら
-      tooltip: 1970（昭和45）年～現代
-      start: 1970
-      end: 1999
-
-    - title: やんちゃくれ
-      tooltip: 1979（昭和54）年～1999（平成11）年
-      start: 1979
-      end: 1999
-
-    - title: すずらん
-      tooltip: 1923（昭和12）年～1999（平成11）年
-      start: 1923
-      end: 1999
-
-    - title: あすか
-      tooltip: 1959（昭和34）年～2000（平成12）年
-      start: 1959
-      end: 2000
-
-    - title: 私の青空
-      tooltip: 1993（平成5）年～2000（平成12）年
-      start: 1993
-      end: 2000
-
-    - title: オードリー
-      tooltip: 1953（昭和28）年～2001（平成13）年
-      start: 1953
-      end: 2001
-
-    - title: ちゅらさん
-      tooltip: 1972（昭和47）年～現代
-      start: 1972
-      end: 2001
-
-    - title: ほんまもん
-      tooltip: 不明
-      start: 2001
-      end: 2002
-
-    - title: さくら
-      tooltip: 不明
-      start: 2002
-      end: 2003
-
-    - title: まんてん
-      tooltip: 不明
-      start: 2002
-      end: 2003
-
-    - title: こころ
-      tooltip: 不明
-      start: 2003
-      end: 2004
-
-    - title: てるてる家族
-      tooltip: 1946（昭和21）年～1968（昭和43）年頃
-      start: 1946
-      end: 1968
-
-    - title: 天花
-      tooltip: 不明
-      start: 2004
-      end: 2005
-
-    - title: わかば
-      tooltip: 1995（平成7）年～現代
-      start: 1995
-      end: 2005
-
-    - title: ファイト
-      tooltip: 不明
-      start: 2005
-      end: 2006
-
-    - title: 風のハルカ
-      tooltip: 不明
-      start: 2005
-      end: 2006
-
-    - title: 純情きらり
-      tooltip: 1928（昭和3）年～1948（昭和23）年
-      start: 1928
-      end: 1948
-
-    - title: 芋たこなんきん
-      tooltip: 現代
-      start: 2006
-      end: 2007
-
-    - title: どんど晴れ
-      tooltip: 2005（平成17）年～現代
-      start: 2005
-      end: 2007
-
-    - title: ちりとてちん
-      tooltip: 1982（昭和57）年～2007（平成19）年
-      start: 1982
-      end: 2007
-
-    - title: 瞳
-      tooltip: 不明
-      start: 2008
-      end: 2009
-
-    - title: だんだん
-      tooltip: 2000（平成12）年～2011（平成23）年
-      start: 2000
-      end: 2011
-
-    - title: つばさ
-      tooltip: 1995（平成7）年～2008（平成20）年
-      start: 1995
-      end: 2008
-
-    - title: ウェルかめ
-      tooltip: 不明
-      start: 2009
-      end: 2010
-
-    - title: ゲゲゲの女房
-      tooltip: 1939（昭和14）年～1961（昭和36）年
-      start: 1939
-      end: 1961
-
-    - title: てっぱん
-      tooltip: 2008（平成20）年～2011（平成23）年
-      start: 2008
-      end: 2011
-
-    - title: おひさま
-      tooltip: 1932（昭和7）年～現代
-      start: 1932
-      end: 2012
-
-    - title: カーネーション
-      tooltip: 1924（大正13）年～2011（平成23）年
-      start: 1924
-      end: 2011
-
-    - title: 梅ちゃん先生
-      tooltip: 1945（昭和20）年～1961（昭和36）年
-      start: 1945
-      end: 1961
-
-    - title: 純と愛
-      tooltip: 不明
-      start: 2012
-      end: 2013
-
-    - title: あまちゃん
-      tooltip: 2008（平成20）年～2012（平成24）年
-      start: 2008
-      end: 2012
-
-    - title: ごちそうさん
-      tooltip: 1911（明治44）年～1947（昭和22）年
-      start: 1911
-      end: 1947
-
-    - title: 花子とアン
-      tooltip: 1900（明治33）年～1952（昭和27）年
-      start: 1900
-      end: 1952
-
-    - title: マッサン
-      tooltip: 1920（大正9）年～1971（昭和46）年
-      start: 1920
-      end: 1971
-
-    - title: まれ
-      tooltip: 1994（平成6）年～2015（平成27）年
-      start: 1994
-      end: 2015
-
-    - title: あさが来た
-      tooltip: 1861（安政4）年～大正時代
-      start: 1861
-      end: 1925
-
-    - title: とと姉ちゃん
-      tooltip: 1930（昭和5）年～1988（昭和63）年
-      start: 1930
-      end: 1988
-
-    - title: べっぴんさん
-      tooltip: 1934（昭和9）年～1984（昭和59）年
-      start: 1934
-      end: 1984
-
-    - title: ひよっこ
-      tooltip: 1964（昭和39）年～1968（昭和43）年
-      start: 1964
-      end: 1968
-
-    - title: わろてんか
-      tooltip: 1902（明治35）年～1946（昭和21）年
-      start: 1902
-      end: 1946
-
-    - title: 半分、青い。
-      tooltip: 1971（昭和46）年～2011（平成23）年
-      start: 1971
-      end: 2011
-
-    - title: まんぷく
-      tooltip: 1938（昭和13）年～1970（昭和45）年
-      start: 1938
-      end: 1970
-
-    - title: なつぞら
-      tooltip: 1946（昭和21）年～1975（昭和50）年
-      start: 1946
-      end: 1975
-
-    - title: スカーレット
-      tooltip: 1947（昭和22）年～1986（昭和61）年
-      start: 1947
-      end: 1986
-
-    - title: エール
-      tooltip: 1909（明治42）年～1977（昭和52）年
-      start: 1909
-      end: 1977
-
-    - title: おちょやん
-      tooltip: 1916（大正5）年～1952（昭和27）年
-      start: 1916
-      end: 1952
-
-    - title: おかえりモネ
-      tooltip: 1995（平成7）～2022（令和4）年
-      start: 1995
-      end: 2022
-
-    - title: カムカムエヴリバディ
-      tooltip: 1925（大正14）～2025年
-      start: 1925
-      end: 2025
-
-    - title: ちむどんどん
-      tooltip: 1964（昭和39）～現代
-      start: 1964
-      end: 2021
-
-    - title: 舞いあがれ！
-      tooltip: 1990（平成2）～現代
-      start: 1990
-      end: 2021
-
-    - title: らんまん
-      tooltip: 1862（文久2）～1957（昭和32）年
-      start: 1862
-      end: 1957
+ - title: あかつき
+   tooltip: 現代
+   start: 1963
+   end: 1964
+
+ - title: うず潮
+   tooltip: 大正末期～1951（昭和26）年
+   start: 1926
+   end: 1951
+
+ - title: たまゆら
+   tooltip: 現代
+   start: 1965
+   end: 1966
+
+ - title: おはなはん
+   tooltip: 明治中期～1966（昭和41）年
+   start: 1890
+   end: 1966
+
+ - title: 旅路
+   tooltip: 1915（大正4）年～1962（昭和37）年
+   start: 1915
+   end: 1962
+
+ - title: あしたこそ
+   tooltip: 1959（昭和34）年～1969（昭和44）年
+   start: 1959
+   end: 1969
+
+ - title: 信子とおばあちゃん
+   tooltip: 現代
+   start: 1969
+   end: 1970
+
+ - title: 虹
+   tooltip: 1943（昭和18）年～1965（昭和40）年
+   start: 1943
+   end: 1965
+
+ - title: 繭子ひとり
+   tooltip: 現代
+   start: 1971
+   end: 1972
+
+ - title: 藍より青く
+   tooltip: 1943（昭和18）年～1963（昭和38）年
+   start: 1943
+   end: 1963
+
+ - title: 北の家族
+   tooltip: 1971（昭和46）年～1974（昭和49）年
+   start: 1971
+   end: 1974
+
+ - title: 鳩子の海
+   tooltip: 1945（昭和20）年～1975（昭和50）年
+   start: 1945
+   end: 1975
+
+ - title: 水色の時
+   tooltip: 1974（昭和49）年～1975（昭和50）年
+   start: 1974
+   end: 1975
+
+ - title: おはようさん
+   tooltip: 現代
+   start: 1975
+   end: 1976
+
+ - title: 雲のじゅうたん
+   tooltip: 1918（大正7）年～1952（昭和27）年
+   start: 1918
+   end: 1952
+
+ - title: 火の国に
+   tooltip: 1975（昭和50）年～1977（昭和52）年
+   start: 1975
+   end: 1977
+
+ - title: いちばん星
+   tooltip: 明治・大正・昭和
+   start: 1968
+   end: 1977
+
+ - title: 風見鶏
+   tooltip: 大正・昭和
+   start: 1912
+   end: 1978
+
+ - title: おていちゃん
+   tooltip: 大正初期・終戦直後
+   start: 1912
+   end: 1945
+
+ - title: わたしは海
+   tooltip: 昭和初期・終戦期
+   start: 1926
+   end: 1950
+
+ - title: マー姉ちゃん
+   tooltip: 1934（昭和9）年～1957（昭和32）年
+   start: 1934
+   end: 1957
+
+ - title: 鮎のうた
+   tooltip: 大正末期～1952（昭和27）年頃
+   start: 1926
+   end: 1952
+
+ - title: なっちゃんの写真館
+   tooltip: 昭和初期～1952（昭和27）年
+   start: 1926
+   end: 1952
+
+ - title: 虹を織る
+   tooltip: 1937（昭和12）年～1965（昭和40）年
+   start: 1937
+   end: 1965
+
+ - title: まんさくの花
+   tooltip: 1980（昭和55）年～現代
+   start: 1980
+   end: 1982
+
+ - title: 本日も晴天なり
+   tooltip: 1944（昭和19）年～1973（昭和48）年
+   start: 1944
+   end: 1973
+
+ - title: ハイカラさん
+   tooltip: 1882（明治15）年～1905（明治38）年
+   start: 1882
+   end: 1905
+
+ - title: よーいドン
+   tooltip: 1927（昭和2）年～1947（昭和22）年、1980年代
+   start: 1927
+   end: 1947
+
+ - title: おしん
+   tooltip: 明治40年代～昭和50年代
+   start: 1907
+   end: 1985
+
+ - title: ロマンス
+   tooltip: 1912（明治45）年～昭和初期
+   start: 1912
+   end: 1926
+
+ - title: 心はいつもラムネ色
+   tooltip: 1928（昭和3）年～1950年代後半
+   start: 1928
+   end: 1959
+
+ - title: 澪つくし
+   tooltip: 1926（昭和元）年～終戦直後
+   start: 1926
+   end: 1946
+
+ - title: いちばん太鼓
+   tooltip: 昭和40年代
+   start: 1965
+   end: 1974
+
+ - title: はね駒
+   tooltip: 1890（明治23）年～1912（明治45）年
+   start: 1890
+   end: 1912
+
+ - title: 都の風
+   tooltip: 1940（昭和15）年～1956（昭和31）年
+   start: 1940
+   end: 1956
+
+ - title: チョッちゃん
+   tooltip: 1927（昭和2）年～1949（昭和24）年
+   start: 1927
+   end: 1949
+
+ - title: はっさい先生
+   tooltip: 1931（昭和6）年～1948（昭和23）年
+   start: 1931
+   end: 1948
+
+ - title: ノンちゃんの夢
+   tooltip: 1948（昭和23）年～1954（昭和29）年
+   start: 1948
+   end: 1954
+
+ - title: 純ちゃんの応援歌
+   tooltip: 1947（昭和22）年～1962（昭和37）年
+   start: 1947
+   end: 1962
+
+ - title: 青春家族
+   tooltip: 現代
+   start: 1989
+   end: 1990
+
+ - title: 和っこの金メダル
+   tooltip: 1958（昭和33）年～1990（平成2）年
+   start: 1958
+   end: 1990
+
+ - title: 凛凛と
+   tooltip: 1912（明治45）年～1932（昭和7）年
+   start: 1912
+   end: 1932
+
+ - title: 京、ふたり
+   tooltip: 現代
+   start: 1990
+   end: 1991
+
+ - title: 君の名は
+   tooltip: 1945（昭和20）年～1955（昭和30）年
+   start: 1945
+   end: 1955
+
+ - title: おんなは度胸
+   tooltip: 1980（昭和55）年～1992（平成4）年
+   start: 1980
+   end: 1992
+
+ - title: ひらり
+   tooltip: 1992（平成4）年～1993（平成5）年
+   start: 1992
+   end: 1993
+
+ - title: ええにょぼ
+   tooltip: 1989（平成元）年～1993（平成5）年
+   start: 1989
+   end: 1993
+
+ - title: かりん
+   tooltip: 1948（昭和23）年～1964（昭和39）年
+   start: 1948
+   end: 1964
+
+ - title: ぴあの
+   tooltip: 現代
+   start: 1994
+   end: 1995
+
+ - title: 春よ、来い
+   tooltip: 1943（昭和18）年～1989（平成元）年
+   start: 1943
+   end: 1989
+
+ - title: 走らんか！
+   tooltip: 現代
+   start: 1995
+   end: 1996
+
+ - title: ひまわり
+   tooltip: 現代
+   start: 1996
+   end: 1997
+
+ - title: ふたりっ子
+   tooltip: 1966（昭和41）年～2002（平成14）年
+   start: 1966
+   end: 2002
+
+ - title: あぐり
+   tooltip: 1907（明治40）年～1954（昭和29）年
+   start: 1907
+   end: 1954
+
+ - title: 甘辛しゃん
+   tooltip: 1960（昭和35）年～1995（平成7）年
+   start: 1960
+   end: 1995
+
+ - title: 天うらら
+   tooltip: 1970（昭和45）年～現代
+   start: 1970
+   end: 1999
+
+ - title: やんちゃくれ
+   tooltip: 1979（昭和54）年～1999（平成11）年
+   start: 1979
+   end: 1999
+
+ - title: すずらん
+   tooltip: 1923（昭和12）年～1999（平成11）年
+   start: 1923
+   end: 1999
+
+ - title: あすか
+   tooltip: 1959（昭和34）年～2000（平成12）年
+   start: 1959
+   end: 2000
+
+ - title: 私の青空
+   tooltip: 1993（平成5）年～2000（平成12）年
+   start: 1993
+   end: 2000
+
+ - title: オードリー
+   tooltip: 1953（昭和28）年～2001（平成13）年
+   start: 1953
+   end: 2001
+
+ - title: ちゅらさん
+   tooltip: 1972（昭和47）年～現代
+   start: 1972
+   end: 2001
+
+ - title: ほんまもん
+   tooltip: 不明
+   start: 2001
+   end: 2002
+
+ - title: さくら
+   tooltip: 不明
+   start: 2002
+   end: 2003
+
+ - title: まんてん
+   tooltip: 不明
+   start: 2002
+   end: 2003
+
+ - title: こころ
+   tooltip: 不明
+   start: 2003
+   end: 2004
+
+ - title: てるてる家族
+   tooltip: 1946（昭和21）年～1968（昭和43）年頃
+   start: 1946
+   end: 1968
+
+ - title: 天花
+   tooltip: 不明
+   start: 2004
+   end: 2005
+
+ - title: わかば
+   tooltip: 1995（平成7）年～現代
+   start: 1995
+   end: 2005
+
+ - title: ファイト
+   tooltip: 不明
+   start: 2005
+   end: 2006
+
+ - title: 風のハルカ
+   tooltip: 不明
+   start: 2005
+   end: 2006
+
+ - title: 純情きらり
+   tooltip: 1928（昭和3）年～1948（昭和23）年
+   start: 1928
+   end: 1948
+
+ - title: 芋たこなんきん
+   tooltip: 現代
+   start: 2006
+   end: 2007
+
+ - title: どんど晴れ
+   tooltip: 2005（平成17）年～現代
+   start: 2005
+   end: 2007
+
+ - title: ちりとてちん
+   tooltip: 1982（昭和57）年～2007（平成19）年
+   start: 1982
+   end: 2007
+
+ - title: 瞳
+   tooltip: 不明
+   start: 2008
+   end: 2009
+
+ - title: だんだん
+   tooltip: 2000（平成12）年～2011（平成23）年
+   start: 2000
+   end: 2011
+
+ - title: つばさ
+   tooltip: 1995（平成7）年～2008（平成20）年
+   start: 1995
+   end: 2008
+
+ - title: ウェルかめ
+   tooltip: 不明
+   start: 2009
+   end: 2010
+
+ - title: ゲゲゲの女房
+   tooltip: 1939（昭和14）年～1961（昭和36）年
+   start: 1939
+   end: 1961
+
+ - title: てっぱん
+   tooltip: 2008（平成20）年～2011（平成23）年
+   start: 2008
+   end: 2011
+
+ - title: おひさま
+   tooltip: 1932（昭和7）年～現代
+   start: 1932
+   end: 2012
+
+ - title: カーネーション
+   tooltip: 1924（大正13）年～2011（平成23）年
+   start: 1924
+   end: 2011
+
+ - title: 梅ちゃん先生
+   tooltip: 1945（昭和20）年～1961（昭和36）年
+   start: 1945
+   end: 1961
+
+ - title: 純と愛
+   tooltip: 不明
+   start: 2012
+   end: 2013
+
+ - title: あまちゃん
+   tooltip: 2008（平成20）年～2012（平成24）年
+   start: 2008
+   end: 2012
+
+ - title: ごちそうさん
+   tooltip: 1911（明治44）年～1947（昭和22）年
+   start: 1911
+   end: 1947
+
+ - title: 花子とアン
+   tooltip: 1900（明治33）年～1952（昭和27）年
+   start: 1900
+   end: 1952
+
+ - title: マッサン
+   tooltip: 1920（大正9）年～1971（昭和46）年
+   start: 1920
+   end: 1971
+
+ - title: まれ
+   tooltip: 1994（平成6）年～2015（平成27）年
+   start: 1994
+   end: 2015
+
+ - title: あさが来た
+   tooltip: 1861（安政4）年～大正時代
+   start: 1861
+   end: 1925
+
+ - title: とと姉ちゃん
+   tooltip: 1930（昭和5）年～1988（昭和63）年
+   start: 1930
+   end: 1988
+
+ - title: べっぴんさん
+   tooltip: 1934（昭和9）年～1984（昭和59）年
+   start: 1934
+   end: 1984
+
+ - title: ひよっこ
+   tooltip: 1964（昭和39）年～1968（昭和43）年
+   start: 1964
+   end: 1968
+
+ - title: わろてんか
+   tooltip: 1902（明治35）年～1946（昭和21）年
+   start: 1902
+   end: 1946
+
+ - title: 半分、青い。
+   tooltip: 1971（昭和46）年～2011（平成23）年
+   start: 1971
+   end: 2011
+
+ - title: まんぷく
+   tooltip: 1938（昭和13）年～1970（昭和45）年
+   start: 1938
+   end: 1970
+
+ - title: なつぞら
+   tooltip: 1946（昭和21）年～1975（昭和50）年
+   start: 1946
+   end: 1975
+
+ - title: スカーレット
+   tooltip: 1947（昭和22）年～1986（昭和61）年
+   start: 1947
+   end: 1986
+
+ - title: エール
+   tooltip: 1909（明治42）年～1977（昭和52）年
+   start: 1909
+   end: 1977
+
+ - title: おちょやん
+   tooltip: 1916（大正5）年～1952（昭和27）年
+   start: 1916
+   end: 1952
+
+ - title: おかえりモネ
+   tooltip: 1995（平成7）～2022（令和4）年
+   start: 1995
+   end: 2022
+
+ - title: カムカムエヴリバディ
+   tooltip: 1925（大正14）～2025年
+   start: 1925
+   end: 2025
+
+ - title: ちむどんどん
+   tooltip: 1964（昭和39）～現代
+   start: 1964
+   end: 2021
+
+ - title: 舞いあがれ！
+   tooltip: 1990（平成2）～現代
+   start: 1990
+   end: 2021
+
+ - title: らんまん
+   tooltip: 1862（文久2）～1957（昭和32）年
+   start: 1862
+   end: 1957
