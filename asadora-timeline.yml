@@ -542,4 +542,14 @@ titles:
     - title: ブギウギ
       tooltip: 1920年代～1950年代
       start: 1920
-      end: 1959 
+      end: 1959
+
+    - title: 虎に翼
+      tooltip: 1914（大正3）年～1984（昭和59）年
+      start: 1914
+      end: 1984
+
+    - title: おむすび
+      tooltip: 1989（平成元）年～2024（令和6）年
+      start: 1989
+      end: 2024
