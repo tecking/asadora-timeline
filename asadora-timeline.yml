@@ -540,8 +540,8 @@ titles:
       end: 1957
 
     - title: ブギウギ
-      tooltip: 1920年代～1950年代
-      start: 1920
+      tooltip: 1926（大正15）年～1950年代
+      start: 1926
       end: 1959
 
     - title: 虎に翼
