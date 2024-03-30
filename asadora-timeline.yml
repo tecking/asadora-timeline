@@ -553,3 +553,9 @@ titles:
       tooltip: 1989（平成元）年～2024（令和6）年
       start: 1989
       end: 2024
+
+    - title: あんぱん
+      tooltip: 昭和時代～平成時代
+      start: 1926
+      end: 2019
+      
