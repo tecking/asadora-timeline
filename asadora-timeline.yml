@@ -550,12 +550,21 @@ titles:
       end: 1999
 
     - title: おむすび
-      tooltip: 2004（平成16）年～2024（令和6）年
+      tooltip: 2004（平成16）年～2025（令和7）年
       start: 2004
-      end: 2024
+      end: 2025
 
     - title: あんぱん
       tooltip: 昭和時代～平成時代
       start: 1926
       end: 2019
-    
+
+    - title: ばけばけ
+      tooltip: 1868（明治元）年～1932（昭和7）年
+      start: 1868
+      end: 1932
+
+    - title: 風、薫る
+      tooltip: 1858（安政5）年～1932（昭和7）年
+      start: 1858
+      end: 1932
