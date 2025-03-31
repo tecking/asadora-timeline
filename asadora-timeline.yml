@@ -555,8 +555,8 @@ titles:
       end: 2025
 
     - title: あんぱん
-      tooltip: 昭和時代～平成時代
-      start: 1926
+      tooltip: 1927（昭和2）年～平成時代
+      start: 1927
       end: 2019
 
     - title: ばけばけ
