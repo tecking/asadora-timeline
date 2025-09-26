@@ -555,9 +555,9 @@ titles:
       end: 2025
 
     - title: あんぱん
-      tooltip: 1927（昭和2）年～平成時代
+      tooltip: 1927（昭和2）年～1993（平成5）年
       start: 1927
-      end: 2019
+      end: 1993
 
     - title: ばけばけ
       tooltip: 1868（明治元）年～1932（昭和7）年
