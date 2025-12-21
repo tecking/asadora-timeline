@@ -568,3 +568,13 @@ titles:
       tooltip: 1858（安政5）年～1932（昭和7）年
       start: 1858
       end: 1932
+
+    - title: ブラッサム
+      tooltip: 1897（明治30）年～1996（平成8）年
+      start: 1897
+      end: 1996
+
+    - title: 巡るスワン
+      tooltip: 不明
+      start: 2027
+      end: 2028
