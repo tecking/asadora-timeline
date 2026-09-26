@@ -565,9 +565,9 @@ titles:
       end: 1904
 
     - title: 風、薫る
-      tooltip: 1882（明治15）年～1932（昭和7）年
+      tooltip: 1882（明治15）年～現代
       start: 1882
-      end: 1932
+      end: 2026
 
     - title: ブラッサム
       tooltip: 1897（明治30）年～1996（平成8）年
@@ -578,3 +578,13 @@ titles:
       tooltip: 不明
       start: 2027
       end: 2028
+
+    - title: なぎさの進化論
+      tooltip: 不明
+      start: 2027
+      end: 2028
+
+    - title: ほんのモキチ
+      tooltip: 1895（明治28）年～1980年代
+      start: 1895
+      end: 1989
